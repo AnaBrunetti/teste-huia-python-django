@@ -1,0 +1,4 @@
+/venv
+/huiatest/static
+/huiatest/media
+/huiatest/db.sqlite3
