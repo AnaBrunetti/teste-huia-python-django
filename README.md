@@ -1,4 +1,3 @@
-# teste-huia-python-django
 # Overview
 API developed with python + django. For company management in the shoe industry. [test developed for Huia]
 
