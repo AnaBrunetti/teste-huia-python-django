@@ -11,7 +11,7 @@ from importlib.resources import path
 
 router = DefaultRouter()
 router.register(r'client', ClientCrud, basename='client')
-router.register(r'quality_lot', QualityLotCrud, basename='quality_lot')
+router.register(r'quality-lot', QualityLotCrud, basename='quality_lot')
 router.register(r'product', ProductCrud, basename='product')
 router.register(r'order', OrderCrud, basename='order')
 router.register(r'order-list', OrderView, basename='order')
